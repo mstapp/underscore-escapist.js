@@ -1,0 +1,17 @@
+{
+  "name": "underscore-escapist",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "devDependencies": {
+    "connect": "~2.9.0",
+    "grunt": "0.4.x",
+    "grunt-contrib-clean": "0.4.x",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "0.4.x",
+    "jshint": "1.1.x"
+  }
+}
